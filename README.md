@@ -1,23 +1,24 @@
-<h1 align="center">Hi, I'm Sasidharan </h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center">  <a href="https://skillicons.dev">  <img src="https://skillicons.dev/icons?i=python,django,flask&theme=light" alt="My Skills"/> </a> </p>
+<h1 align="center">Hi, I'm Sasidharan</h1>
+<p align="center"><em>I build software that stays simple as it grows.</em></p>
 
+---
 
-### Other Skills
+The best systems I've worked on were never the cleverest. They were the ones
+that were easy to reason about at 3 a.m., easy for the next person to change,
+and quiet when nothing was wrong.
 
-**Cloud Technologies:**
+That's the work I care about:
 
-<p align="left"> <img style="margin-right: 14px;" title="Google Cloud Platform" alt="GCP" src="https://skillicons.dev/icons?i=gcp&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/><img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/>
- </p>
- 
-**Databases:**
-<p align="left"> <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/><img title="NoSQL" alt="NoSQL" src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40" height="40" style="vertical-align:down; margin=4px"/>  </p>
+- **Clarity over cleverness.** Code is read far more than it's written. The right abstraction is the one that disappears.
+- **Design for change.** Requirements move. Good architecture absorbs that motion instead of fighting it.
+- **Earn complexity.** Every layer should pay for itself. When it stops, it goes.
+- **Build people, not just systems.** The deepest leverage is a team that makes good decisions without you in the room.
 
-**Frontend Development:**
+Most of my work has been in backend and distributed systems, mostly with
+Python and the cloud. But the tools are the easy part. What carries over from
+one project to the next is judgment: knowing what to build, what to leave out,
+and when something is good enough.
 
-<p align="left"> <img title="Angular" alt="Angular" src="https://skillicons.dev/icons?i=angular&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="GraphQL" alt="GraphQL" src="https://skillicons.dev/icons?i=graphql&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/><img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="HTML" alt="HTML" src="https://skillicons.dev/icons?i=html&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="CSS" alt="CSS" src="https://skillicons.dev/icons?i=css&theme=light" width="40" height="40" style="vertical-align:down; margin:4px"/> 
+---
 
-</p>
-
-
-<p align="center"> <em>"In the face of ambiguity, refuse the temptation to guess."</em><br> - The Zen of Python, by Tim Peters </p>  <p align="center"> This quote from The Zen of Python perfectly aligns with my approach to software development: clear thinking, precise action, and a deep appreciation for simplicity and power of Python. It's a reminder that great code isn't just about solving problems—it's about doing so in a way that's understandable, maintainable, and, above all, Pythonic. 😜</p>
+<p align="center">In the age of AI - <em>You can outsource work, but not your understanding.</em></p>
